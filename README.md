@@ -1,62 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+All changes were successful as linters errors were all fixed. 
 
-> Description the project.
+# AWESOME BOOK PROJECT
+Here is a [link] (https://blase147.github.io/awesome-books/
+) to the live page.
+# Built With
 
+--Major languages 
+- HTML 
+- CSS
+- Javascript
 
-## Built With
+- Technologies used 
+--GitHub 
+--Visual Studio Code 
+--GitBash
+--Webpack
 
-- Major languages
-- Frameworks
-- Technologies used
+# Instuctions to set up project locally
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Download zip file of the project
+- Extract folder to the hard drive
+- Opened index.html file with any modern web browser i.e. chrome
 
 ## Authors
 
-👤 **Author1**
+👤 **Chukwuma Paul Mosanya**
+- GitHub: [@blase147](https://github.com/blase147)
+- Twitter: [@ChukwumaMosanya](https://twitter.com/ChukwumaMosanya)
+- LinkedIn: [@ChukwumaMosanya](https://www.linkedin.com/in/chukwuma-mosanya-34645388)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+# 🤝 Contributing
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Contributions, issues, and feature requests are welcome!
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+  Feel free to check the issues page.https://github.com/blase147/awesome-books/issues
 
 ## Show your support
 
@@ -64,12 +44,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [@microverseinc](https://github.com/microverseinc) 
+
+
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.

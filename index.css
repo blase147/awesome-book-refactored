@@ -1,0 +1,172 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  align-items: center;
+  margin: 20px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+  margin: auto;
+  gap: 40px;
+}
+
+#nav-items {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-title {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-weight: 900;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+nav a {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  margin-left: 20px;
+  border-right: 2px solid black;
+  padding-right: 50px;
+  text-decoration: none;
+  color: black;
+}
+
+nav a:nth-child(3) {
+  display: flex;
+  margin-left: 20px;
+  border-right: none;
+}
+
+#date {
+  display: flex;
+  text-align: right;
+}
+
+.awesome-books {
+  font-size: 45px;
+  text-align: center;
+}
+
+#bookDisplay {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid black;
+  width: 100%;
+}
+
+#formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  margin-bottom: 100px;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+
+  /* margin-bottom: 90px; */
+}
+
+#form input {
+  display: flex;
+  flex-direction: column;
+  height: 6vh;
+}
+
+.add-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+
+#add-btn {
+  margin-right: 0;
+  width: 30%;
+  height: 6vh;
+  align-items: flex-end;
+  justify-content: right;
+  justify-items: right;
+  border: 2px solid black;
+}
+
+.form-heading {
+  font-size: 45px;
+  text-align: center;
+}
+
+.book-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.book-div:nth-child(odd) {
+  background-color: rgb(235, 231, 231);
+}
+
+.remove {
+  border: 3px solid black;
+}
+
+.formLine {
+  border: 2px solid black;
+  width: 80px;
+  margin-top: 10px;
+}
+
+#book-title {
+  border: 2px solid black;
+}
+
+#author-name {
+  border: 2px solid black;
+}
+
+.contact-information {
+  font-size: 45px;
+  text-align: center;
+}
+
+#contact-information {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+  font-size: 34px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border: 2px solid black;
+  margin: auto;
+  padding: 5px;
+}
