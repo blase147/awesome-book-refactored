@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-All changes were successful as linters errors were all fixed. 
+# Project Description
+-Book List App(A Microverse project on adding books to library)
 
 # AWESOME BOOK PROJECT
 Here is a [link] (https://blase147.github.io/awesome-books/
