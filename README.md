@@ -1,7 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Description
--Book List App(A Microverse project on adding books to library)
+- This project is a Book List App(A Microverse project on adding books to library). This app has a feature for adding and removing books from the books library.
+With a local storage function scripted in, the delete feature also clears books stored in the local storage.
 
 # AWESOME BOOK PROJECT
 Here is a [link] (https://blase147.github.io/awesome-books/
