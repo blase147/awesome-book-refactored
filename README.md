@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # AWESOME BOOK PROJECT
-> [Click this link to view live page] (https://blase147.github.io/awesome-books/) 
+> [Click this link to view live page](https://blase147.github.io/awesome-books/) 
 
 ## Built With
 - HTML 
